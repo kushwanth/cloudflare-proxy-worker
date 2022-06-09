@@ -1,0 +1,10 @@
+name = "cloudflare-proxy-worker"
+type = "javascript"
+main = "./index.js"
+workers_dev = true
+route = "/*"
+compatibility_date = "2022-05-21"
+
+kv_namespaces = [ 
+  { binding = "env", id = "",preview_id = "" }
+]

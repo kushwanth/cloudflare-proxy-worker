@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "name": "proxy",
+  "version": "1.0.0",
+  "description": "Proxy for JAMStack Websites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kushwanth",
+  "license": "MIT"
+}
